@@ -1,0 +1,14 @@
+version: "3.2"
+services:
+  www:
+    container_name: container_name # Use um nome de identificação
+    image: image # Substitua com a imagem
+    ports:
+      # - "4433:443"
+      - "8080:80" # Use qualquer porta mas mude em default-ssl.conf
+    volumes:
+      - ./www/:/var/www/
+      - ./apache2/sites-enabled:/etc/apache2/sites-enabled/
+      - ./apache2/log:/var/log/apache2/
+      - ./conf/logrotate.conf:/etc/logrotate.d/apache2
+      # - /etc/letsencrypt/:/etc/letsencrypt/ # Necessário a não ser que seja um servidor externo com https
