@@ -1,3 +1,33 @@
+# Imagem Docker por sistema
+   - Intercâbmbio Itajubá
+     ```bash
+     softwarespti/ubuntu22-apache-php81
+     ```
+   - Protocolo Itajubá
+     ```bash
+     softwarespti/ubuntu-apache-php5.6
+     ```
+   - Protocolo Sul Mineira (PA)
+     ```bash
+     softwarespti/ubuntu22-apache-php81
+     ```
+   - Protocolo Clube Itajubense
+     ```bash
+     softwarespti/ubuntu-apache-php8.0
+     ```
+   - Protocolo Amparo
+     ```bash
+     softwarespti/ubuntu-apache-php5.6
+     ```
+   - Protocolo Farmácia Amparo
+     ```bash
+     softwarespti/ubuntu-apache-php5.6
+     ```
+   - Site Coperciso
+     ```bash
+     softwarespti/ubuntu-apache-php8.0
+     ```
+
 # Tutorial: Instalação do WSL Ubuntu com Docker via Linha de Comando
 
 Este tutorial orienta a instalação do WSL (Windows Subsystem for Linux) com Ubuntu e configuração do Docker, sem o uso do Docker Desktop.
