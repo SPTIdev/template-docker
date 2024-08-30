@@ -1,5 +1,5 @@
 # Imagem Docker por sistema
-   - Intercâbmbio Itajubá
+   - Intercâmbio Itajubá
      ```bash
      softwarespti/ubuntu22-apache-php81
      ```
