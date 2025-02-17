@@ -27,7 +27,7 @@
      ```bash
      softwarespti/ubuntu-apache-php8.0
      ```
-   - SCEPI Fitassum
+   - SCEPI Fitassul
      ```bash
      softwarespti/ubuntu-fitassul-node
      ```
