@@ -27,6 +27,10 @@
      ```bash
      softwarespti/ubuntu-apache-php8.0
      ```
+   - SCEPI Fitassum
+     ```bash
+     softwarespti/ubuntu-fitassul-node
+     ```
 
 # Tutorial: Instalação do WSL Ubuntu com Docker via Linha de Comando
 
